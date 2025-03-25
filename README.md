@@ -26,6 +26,7 @@ I'm a results-driven technology consultant with a strong background in software 
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
 ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
@@ -34,7 +35,6 @@ I'm a results-driven technology consultant with a strong background in software 
 ![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
